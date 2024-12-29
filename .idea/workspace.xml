@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b0e7ff4-496b-496b-95f2-4c0f105e0f59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayList2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Intersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MissingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SlidingWindowSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Union.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/XOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculatorUsingSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaseCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/CircularLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/CollectionFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/DoublyLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/QueueUsingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/QueueUsingLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/StackUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/StacksUsingLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/hashmapex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Structures/hashsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EquilibriumIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FizzArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GarbageCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/NonRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/SubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/findDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KadanesAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxFrequencyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinNoOfJumps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PermutationsPrimeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/linearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RepeatedDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReversingTheDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rotatematrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShiftArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShyamInterview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/AnagramCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/RotationStringCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Vowels_Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZeroMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equalsOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/passByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Abstraction/Daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Abstraction/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Abstraction/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Cloning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Inheritance/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Inheritance/BoxPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Inheritance/BoxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Inheritance/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/Brake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/CDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/NestedInterface/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/NiceCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/PowerEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/extend/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/extend/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Interface/extend/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Polymorphism/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Polymorphism/ObjectPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Polymorphism/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Polymorphism/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Polymorphism/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Polymorphism/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/Student18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/access/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/access/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/access/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/sample1/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sai/swaroop/sample2/demo1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oc9IBD3ec7RtZAGyTLzqicQNTo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstraction.executor": "Run",
+    "Application.AnagramCheck.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.ArrayList2D.executor": "Run",
+    "Application.Arraylist.executor": "Run",
+    "Application.Arrays.executor": "Run",
+    "Application.B.executor": "Run",
+    "Application.BackTracking.executor": "Debug",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CalculatorUsingSwitchCase.executor": "Run",
+    "Application.CaseCheck.executor": "Run",
+    "Application.CircularLL.executor": "Run",
+    "Application.CollectionFramework.executor": "Run",
+    "Application.DoublyLL.executor": "Run",
+    "Application.DuplicateElement.executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.EquilibriumIndex.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
+    "Application.Ex.executor": "Run",
+    "Application.ExceptionHandling.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FinalKeyword.executor": "Run",
+    "Application.FizzArray.executor": "Run",
+    "Application.ForEachLoop.executor": "Debug",
+    "Application.Inheritance.executor": "Run",
+    "Application.InnerClass.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.IntToString.executor": "Run",
+    "Application.Interface1.executor": "Run",
+    "Application.Intersection.executor": "Run",
+    "Application.JaggedArray.executor": "Run",
+    "Application.JavaBasics.executor": "Run",
+    "Application.KadanesAlgo.executor": "Debug",
+    "Application.Kandanes.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.LinkedList.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxFrequencyNumber.executor": "Run",
+    "Application.MergedArray.executor": "Run",
+    "Application.MinNoOfJumps.executor": "Run",
+    "Application.MissingElement.executor": "Run",
+    "Application.MountainArray.executor": "Run",
+    "Application.NonRepeatingChar.executor": "Run",
+    "Application.OOPS.executor": "Run",
+    "Application.ObjectClass.executor": "Run",
+    "Application.ObjectPrint.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PerfectNumber.executor": "Run",
+    "Application.PermutationsPrimeCheck.executor": "Debug",
+    "Application.Polymorphism.executor": "Run",
+    "Application.Practise.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.QueueUsingArrays.executor": "Run",
+    "Application.QueueUsingLL.executor": "Run",
+    "Application.RepeatedDigit.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReversingTheDigits.executor": "Run",
+    "Application.Rotatematrix.executor": "Run",
+    "Application.RotationStringCheck.executor": "Debug",
+    "Application.SelectionSort.executor": "Debug",
+    "Application.ShiftArray.executor": "Run",
+    "Application.ShyamInterview.executor": "Run",
+    "Application.SlidingWindow.executor": "Run",
+    "Application.SlidingWindowSubArraySum.executor": "Run",
+    "Application.Sort012.executor": "Run",
+    "Application.StackUsingArray.executor": "Run",
+    "Application.StackUsingLL.executor": "Run",
+    "Application.StacksUsingLL.executor": "Run",
+    "Application.StaticBlock.executor": "Run",
+    "Application.StringB.executor": "Run",
+    "Application.Strings.executor": "Run",
+    "Application.SubArray.executor": "Run",
+    "Application.Subsequence.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.TwoDArray.executor": "Run",
+    "Application.TwoSum.executor": "Debug",
+    "Application.Union.executor": "Run",
+    "Application.Vowels_Constants.executor": "Run",
+    "Application.WrapperClass.executor": "Run",
+    "Application.ZeroMatrix.executor": "Debug",
+    "Application.cd.executor": "Run",
+    "Application.demo1.executor": "Run",
+    "Application.findDuplicate.executor": "Run",
+    "Application.hashmapex.executor": "Run",
+    "Application.hashsets.executor": "Run",
+    "Application.linearSearch.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.oopsOCC.executor": "Run",
+    "Application.passByValue.executor": "Run",
+    "Application.sum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/sai/Fight",
+    "onboarding.tips.debug.path": "C:/sai/Fight/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestNumber" />
+      <module name="Fight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practise" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction" />
+      <module name="Fight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LargestNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b0e7ff4-496b-496b-95f2-4c0f105e0f59" name="Changes" comment="" />
+      <created>1731157917106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731157917106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ZeroMatrix.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/RotationStringCheck.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PermutationsPrimeCheck.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
