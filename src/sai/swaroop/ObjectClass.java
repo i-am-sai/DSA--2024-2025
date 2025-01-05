@@ -43,6 +43,16 @@ public class ObjectClass {
     public static void main(String[] args) {
         ObjectClass obj1 = new ObjectClass(7);
         ObjectClass obj2 = new ObjectClass(7);
+        ObjectClass obj3 = obj1;
+
+        Integer e = 7;
+        Integer d = 7;
+        System.out.println(e.equals(d));
+        System.out.println(e == d);
+        System.out.println(obj1 == obj2);
+        System.out.println(obj1.equals(obj2));
+
+
         System.out.println(obj1);    // Default toString is called : o/p : sai.swaroop.ObjectClass@7b23ec81
 
         if(obj1 == obj2){

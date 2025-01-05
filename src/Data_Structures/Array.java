@@ -15,6 +15,8 @@ public class Array {
 
     public static void main(String[] args) {
         int[] arr = {1,9,8,2,5,6};
+
+
         System.out.println(arr.length);
         Arrays.sort(arr);
         System.out.println(Arrays.toString(arr));
